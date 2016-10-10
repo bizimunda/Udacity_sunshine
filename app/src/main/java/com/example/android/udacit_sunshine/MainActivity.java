@@ -52,6 +52,7 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
+
     public static class PlaceholderFragment extends Fragment {
 
         ArrayAdapter<String> mForecastAdapter;
