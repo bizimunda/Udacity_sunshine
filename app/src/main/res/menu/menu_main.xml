@@ -4,9 +4,8 @@
     tools:context=".MainActivity">
 
     <item
-        android:id="@+id/action_refresh"
-        android:orderInCategory="200"
-        android:title="@string/Refresh"
+        android:id="@+id/action_map"
+        android:title="@string/Map"
         app:showAsAction="always" />
 
 </menu>
